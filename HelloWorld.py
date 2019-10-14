@@ -5,4 +5,5 @@ Created on Mon Oct 14 15:03:03 2019
 @author: gs104755
 """
 
-print('Hello world')
+for i in range(10):
+    print('Hello world')
